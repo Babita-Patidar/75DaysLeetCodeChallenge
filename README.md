@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
+| [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
