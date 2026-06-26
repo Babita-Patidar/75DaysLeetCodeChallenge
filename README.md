@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 ## Hash Table
 |  |
 | ------- |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0231-power-of-two](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Stack
 |  |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
