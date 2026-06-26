@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Stack
 |  |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
