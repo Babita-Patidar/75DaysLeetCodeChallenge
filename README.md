@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0231-power-of-two](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Stack
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
 ## Tree
 |  |
