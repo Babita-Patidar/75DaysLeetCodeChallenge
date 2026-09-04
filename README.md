@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1019-next-greater-node-in-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1539-kth-missing-positive-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 ## Sorting
 |  |
 | ------- |
@@ -303,4 +305,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 <!---LeetCode Topics End-->
