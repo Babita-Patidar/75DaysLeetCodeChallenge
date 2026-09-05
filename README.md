@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1539-kth-missing-positive-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
 | ------- |
@@ -235,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2487-remove-nodes-from-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Recursion
 |  |
 | ------- |
