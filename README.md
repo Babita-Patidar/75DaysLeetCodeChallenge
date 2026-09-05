@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0142-linked-list-cycle-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
