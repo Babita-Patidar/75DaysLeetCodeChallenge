@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1837-sum-of-digits-in-base-k](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1837-sum-of-digits-in-base-k) |
 ## Monotonic Stack
 |  |
 | ------- |
