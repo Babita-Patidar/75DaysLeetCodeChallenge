@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
@@ -230,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
