@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0415-add-strings](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0504-base-7) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 ## Hash Table
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0977-squares-of-a-sorted-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
