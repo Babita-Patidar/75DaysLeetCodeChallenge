@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0977-squares-of-a-sorted-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Divide and Conquer
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0504-base-7](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1837-sum-of-digits-in-base-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
