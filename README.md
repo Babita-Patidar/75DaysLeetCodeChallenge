@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-count-the-digits-that-divide-a-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2652-sum-multiples](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2652-sum-multiples) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Monotonic Stack
 |  |
 | ------- |
