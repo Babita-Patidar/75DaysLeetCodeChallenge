@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
+| [1486-xor-operation-in-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
+| [1486-xor-operation-in-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1837-sum-of-digits-in-base-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
