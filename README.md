@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [1539-kth-missing-positive-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1550-three-consecutive-odds](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1550-three-consecutive-odds) |
+| [1672-richest-customer-wealth](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [1672-richest-customer-wealth](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Linked List
 |  |
 | ------- |
