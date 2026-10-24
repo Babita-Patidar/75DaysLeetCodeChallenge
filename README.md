@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0504-base-7) |
+| [2942-find-words-containing-character](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2942-find-words-containing-character](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/3232-find-if-digit-game-can-be-won) |
