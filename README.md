@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0876-middle-of-the-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1721-swapping-nodes-in-a-linked-list) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0504-base-7](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0504-base-7) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0392-is-subsequence](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 ## Sliding Window
 |  |
