@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0504-base-7](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
+| [1137-n-th-tribonacci-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1486-xor-operation-in-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1486-xor-operation-in-an-array) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1822-sign-of-the-product-of-an-array) |
@@ -395,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0509-fibonacci-number) |
+| [1137-n-th-tribonacci-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1137-n-th-tribonacci-number) |
 ## Bracket Sequences
 |  |
 | ------- |
