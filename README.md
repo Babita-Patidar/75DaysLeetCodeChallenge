@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
@@ -447,4 +449,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1407-top-travellers](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1407-top-travellers) |
 | [1729-find-followers-count](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1729-find-followers-count) |
 | [1757-recyclable-and-low-fat-products](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1757-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
