@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0064-minimum-path-sum](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
+| [0064-minimum-path-sum](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
@@ -294,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0074-search-a-2d-matrix](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [1672-richest-customer-wealth](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1672-richest-customer-wealth) |
 ## Linked List
