@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0392-is-subsequence) |
 | [0415-add-strings](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0415-add-strings) |
 | [0424-longest-repeating-character-replacement](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
+| [0500-keyboard-row](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0500-keyboard-row) |
 | [0504-base-7](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0504-base-7) |
 | [2942-find-words-containing-character](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2942-find-words-containing-character) |
 ## Array
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0500-keyboard-row) |
 | [0503-next-greater-element-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0503-next-greater-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0424-longest-repeating-character-replacement](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
+| [0500-keyboard-row](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0500-keyboard-row) |
 | [1207-unique-number-of-occurrences](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
