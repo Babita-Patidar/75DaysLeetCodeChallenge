@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0287-find-the-duplicate-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0338-counting-bits) |
 | [0342-power-of-four](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0389-find-the-difference) |
@@ -214,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0704-binary-search](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -470,4 +474,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0062-unique-paths) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
