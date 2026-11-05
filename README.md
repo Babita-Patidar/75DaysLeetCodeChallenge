@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -155,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0500-keyboard-row) |
+| [0706-design-hashmap](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 | [1207-unique-number-of-occurrences](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/2605-form-smallest-number-from-two-digit-arrays) |
@@ -274,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0232-implement-queue-using-stacks) |
+| [0706-design-hashmap](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 ## Queue
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0237-delete-node-in-a-linked-list) |
+| [0706-design-hashmap](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0876-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -494,4 +498,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
