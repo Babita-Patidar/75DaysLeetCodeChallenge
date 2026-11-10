@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0061-rotate-list](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0169-majority-element) |
@@ -506,4 +509,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0706-design-hashmap) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Babita-Patidar/75DaysLeetCodeChallenge/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
